@@ -1,0 +1,1 @@
+This component refers to a Windows application utility specifically designed for copying iterations of a project area from one project area to other project area

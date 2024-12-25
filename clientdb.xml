@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<com.ibm.magnolia.clientmodel:ClientModelRoot xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:com.ibm.magnolia.clientmodel="http:///com/ibm/magnolia/clientmodel.ecore">
+  <workItemEditorHistory internalContents=""/>
+  <queries/>
+  <queryViews>
+    <internalContents name="Default" repository="https://localhost:9443/ccm/" uuid="_dkDkAPiPEe6virWWty95mg" id="com.ibm.magnolia.workItemExplorer.">
+      <columns attribute="workItemType" sorting="0" sortOrder="0" visible="true" width="-1"/>
+      <columns attribute="id" sorting="2" sortOrder="1" visible="true" width="-1"/>
+      <columns attribute="internalState" sorting="0" sortOrder="0" visible="true" width="-1"/>
+      <columns attribute="internalPriority" sorting="0" sortOrder="0" visible="true" width="-1"/>
+      <columns attribute="internalSeverity" sorting="0" sortOrder="0" visible="true" width="-1"/>
+      <columns attribute="summary" sorting="0" sortOrder="0" visible="true" width="-1"/>
+      <columns attribute="owner" sorting="0" sortOrder="0" visible="true" width="-1"/>
+      <columns attribute="creator" sorting="0" sortOrder="0" visible="true" width="-1"/>
+    </internalContents>
+    <internalContents name="Default" repository="https://localhost:9443/ccm/" uuid="_4EWGYGcjEdq9dPcKjjePWA">
+      <columns attribute="workItemType" sorting="0" sortOrder="0" visible="true" width="-1"/>
+      <columns attribute="id" sorting="2" sortOrder="1" visible="true" width="-1"/>
+      <columns attribute="internalState" sorting="0" sortOrder="0" visible="true" width="-1"/>
+      <columns attribute="internalPriority" sorting="0" sortOrder="0" visible="true" width="-1"/>
+      <columns attribute="internalSeverity" sorting="0" sortOrder="0" visible="true" width="-1"/>
+      <columns attribute="summary" sorting="0" sortOrder="0" visible="true" width="-1"/>
+      <columns attribute="owner" sorting="0" sortOrder="0" visible="true" width="-1"/>
+      <columns attribute="creator" sorting="0" sortOrder="0" visible="true" width="-1"/>
+      <id xsi:nil="true"/>
+    </internalContents>
+  </queryViews>
+</com.ibm.magnolia.clientmodel:ClientModelRoot>
